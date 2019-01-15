@@ -39,3 +39,6 @@ ImageGlass：图片浏览
 
 HWiNFO：硬件检测
   https://www.hwinfo.com/download/
+
+Potplayer：视频音频播放器
+  https://potplayer.daum.net/
