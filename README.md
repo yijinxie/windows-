@@ -33,3 +33,6 @@ Free Download Manager：下载工具
 
 Owncloud：开源同步工具
   https://owncloud.org/download/
+
+ImageGlass：图片浏览
+  https://imageglass.org/releases
