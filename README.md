@@ -36,3 +36,6 @@ Owncloud：开源同步工具
 
 ImageGlass：图片浏览
   https://imageglass.org/releases
+
+HWiNFO：硬件检测
+  https://www.hwinfo.com/download/
