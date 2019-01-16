@@ -21,6 +21,7 @@ Sumatra PDF：开源PDF阅读器
 
 GoldenDict：开源词典
   http://goldendict.org/download.php
+  https://sourceforge.net/projects/goldendict/
 
 7-Zip：压缩解压缩
   https://www.7-zip.org/download.html
